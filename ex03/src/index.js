@@ -9,8 +9,8 @@ var myFood = {
 function myFunction(myObj) {
     // Only change code bellow this line
     vegetableValue = ["carrot"];
-    fruitValue = ["fruit"];
-    drinkValue = ["drink"];
+    fruitValue = ["orange"];
+    drinkValue = ["water"];
 
     // Only change code above this line
 
